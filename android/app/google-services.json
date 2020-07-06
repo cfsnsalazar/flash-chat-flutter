@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735944639893",
+    "firebase_url": "https://fire-chat-df186.firebaseio.com",
+    "project_id": "fire-chat-df186",
+    "storage_bucket": "fire-chat-df186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735944639893:android:5631829cda107ce2bc229c",
+        "android_client_info": {
+          "package_name": "co.napoleonsalazar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735944639893-08nuvkpo9pglfjh8ieoc31j2msdm2c2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw4pIKseD4lm67t5s0KNf27mseIkpN4Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735944639893-08nuvkpo9pglfjh8ieoc31j2msdm2c2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
